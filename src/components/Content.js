@@ -1,4 +1,3 @@
-// import render from "dom-serializer";
 import React, {Component} from "react";
 import Gif from './Gif';
 
