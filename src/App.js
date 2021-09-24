@@ -1,4 +1,4 @@
-import './app.css';
+import './app2.css';
 import Navigation from './components/Navigation'
 import Content from './components/Content'
 
