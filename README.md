@@ -1,6 +1,10 @@
 # React Giphy App 🙂
 
-**[→ Live project](https://reactgiphyapp.netlify.app/)**
+Trending GIF images from an API.
+
+API used: [GIPHY API](https://developers.giphy.com/docs/api/)
+
+### **[→ Live project](https://reactgiphyapp.netlify.app/)**
 
 ## Available Scripts
 
